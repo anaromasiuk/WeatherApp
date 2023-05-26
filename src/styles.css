@@ -82,7 +82,7 @@ li {
   margin-right: -15px;
   margin-left: -15px;
 }
-#repo-link {
+.repoLink {
   text-align: center;
   margin: 0 auto;
 }
